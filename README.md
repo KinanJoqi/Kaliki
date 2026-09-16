@@ -7,3 +7,4 @@ Just download the zip, extract it and start it with that command:
 **cd ~/Jarvis && source venv/bin/activate && python3 jarvis.py**
 # Releases
 I will update the Releases every time.
+__good__
