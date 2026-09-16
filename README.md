@@ -4,5 +4,5 @@ You can edit the Helper in the file, when you know how to do it, it is a usefull
 For now on its only for Linux.
 # Get started
 Just download the zip, extract it and start it with that command: 
-cd ~/Jarvis && source venv/bin/activate && python3 jarvis.py
+**cd ~/Jarvis && source venv/bin/activate && python3 jarvis.py**
 
