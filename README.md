@@ -1,6 +1,6 @@
 # Kaliki
 Its just a helper in Kali Linux whitch you can **edit easy.**
-You can edit the Helper in the file, when you know how to do it, it is a usefully helper.
+You can edit the Helper in the file, it is a usefully helper.
 For now on its only for Linux.
 Of course everything is **open source!**
 # Get started
